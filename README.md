@@ -4,6 +4,8 @@ Welcome to the robsite, available at [robertoo.st](https://robertoo.st)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
+I forked this project from a previous github account of mine, that I no longer have access to. I might create a new repo for it eventually.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
